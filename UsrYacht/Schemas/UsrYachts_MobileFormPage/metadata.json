@@ -1,0 +1,10 @@
+= MetaData.Schema.UId "e2453d0e-676c-4a05-a144-43444400cd03"
+= MetaData.Schema.A2 "UsrYachts_MobileFormPage"
+= MetaData.Schema.A5 "d484d861-d8e5-4a3f-84ad-1d9256189431"
+~ MetaData.Schema.B2 ["91eee288-ff85-4f65-9208-f7774c5107bb","9808d036-465e-4429-b6f3-ba37527901b0","e99dec6c-f196-4a33-bf02-f6723d9a2340","bf6a4277-cd62-4fe8-b220-6affc145636d"]
+= MetaData.Schema.B6 "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a"
+= MetaData.Schema.HD1 "019c694a-1a3b-4812-b2e5-219b326061ae"
+= MetaData.Schema.HD6 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false
